@@ -75,7 +75,6 @@ Spam-Email-Detector-LogisticRegression/
 
 ---
 
-## 🖼️ Interface Previews
 
 ## 🖼️ Interface Previews
 
